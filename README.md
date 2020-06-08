@@ -1,4 +1,4 @@
-# desafioreactjs
+# Desafio ReactJS
 
 Desafio proposto pela Rocketseat no Bootcamp 2020
 
